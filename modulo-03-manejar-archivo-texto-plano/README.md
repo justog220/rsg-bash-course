@@ -252,6 +252,8 @@ Los patrones también pueden comparar el contenido de un campo. El operador `==`
 awk -F '\t' '$3 == "Homo sapiens" {print $1, $4}' datos/rbps_especies.tsv
 ```
 
+<img src="../src/awk1.png" alt="Ejemplo de salida de awk" />
+
 Este comando selecciona las líneas cuyo tercer campo es `Homo sapiens` y muestra los campos primero y cuarto.
 
 ### Ejecutar una acción al final

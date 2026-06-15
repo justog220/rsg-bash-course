@@ -36,7 +36,7 @@ ls
 
 <details>
 <summary>Ver salida</summary>
-![mkdir](../src/mkdir.png)
+<img src="../src/mkdir.png" alt="Salida de mkdir" />
 </details>
 
 Qué mirar:
@@ -65,7 +65,7 @@ ls
 
 <details>
 <summary>Ver salida</summary>
-![touch](../src/touch.png)
+<img src="../src/touch.png" alt="Salida de touch" />
 </details>
 
 Qué mirar:
@@ -95,7 +95,7 @@ ls resultados_prueba
 
 <details>
 <summary>Ver salida</summary>
-![cp](../src/cp.png)
+<img src="../src/cp.png" alt="Salida de cp" />
 </details>
 
 Qué mirar:
@@ -130,7 +130,7 @@ ls
 
 <details>
 <summary>Ver salida</summary>
-![alt text](../src/mv.png)
+<img src="../src/mv.png" alt="Salida de mv al renombrar" />
 </details>
 
 Qué mirar:
@@ -153,7 +153,7 @@ ls resultados_prueba
 
 <details>
 <summary>Ver salida</summary>
-![alt text](../src/mv2.png)
+<img src="../src/mv2.png" alt="Salida de mv al mover el archivo" />
 </details>
 
 Qué mirar:
