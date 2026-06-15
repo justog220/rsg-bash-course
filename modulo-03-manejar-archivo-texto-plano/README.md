@@ -40,7 +40,7 @@ Podés moverte con las flechas y escribir o borrar texto normalmente. Los atajos
 En la parte inferior de la pantalla, `nano` muestra los atajos disponibles. El símbolo `^` representa la tecla `Ctrl`: por ejemplo, `^X` significa `Ctrl + X`.
 
 <div align="center">
-<img src="../src/nano.gif">
+<img src="../src/nano.gif" alt="Uso de nano en terminal" />
 </div>
 
 
@@ -65,7 +65,7 @@ Este archivo entra en una sola pantalla, por lo que resulta cómodo leerlo compl
 
 <details>
 <summary>Ver salida</summary>
-<img src="../src/cat.png">
+<img src="../src/cat.png" alt="Salida de cat" />
 </details>
 
 <br>

@@ -45,7 +45,7 @@ head cabeceras.txt
 
 <details>
 <summary>Ver ejecución</summary>
-<img src="../src/cabeceras.png">
+<img src="../src/cabeceras.png" alt="Resultado de redirección con mayor que" />
 </details>
 
 
@@ -68,7 +68,7 @@ cat resumen.txt
 
 <details>
 <summary>Ver ejecución</summary>
-<img src="../src/resumen.png">
+<img src="../src/resumen.png" alt="Resultado de agregar contenido con doble mayor que" />
 La salida esperada es:
 
 ```text
@@ -88,7 +88,7 @@ wc -l < datos/rbps.fasta
 
 <details>
 <summary>Ver ejecución</summary>
-<img src="../src/lt.png">
+<img src="../src/lt.png" alt="Resultado de redirección de entrada con menor que" />
 </details>
 
 <br>
@@ -109,7 +109,7 @@ FIN
 
 <details>
 <summary>Ver ejecución</summary>
-<img src="../src/ltlt.png">
+<img src="../src/ltlt.png" alt="Resultado de entrada de varias líneas con doble menor que" />
 </details>
 
 ## Conectar comandos con `|`
@@ -122,7 +122,7 @@ grep '^>' datos/rbps.fasta | head
 
 <details>
 <summary>Ver ejecución</summary>
-<img src="../src/pipe.png">
+<img src="../src/pipe.png" alt="Resultado de conectar comandos con pipe" />
 </details>
 
 <br>
@@ -144,7 +144,7 @@ Cada comando cumple una función distinta:
 
 <details>
 <summary>Ver ejecución</summary>
-<img src="../src/pipedoble.png">
+<img src="../src/pipedoble.png" alt="Resultado de encadenar varios pipes" />
 </details>
 <br>
 

@@ -78,7 +78,7 @@ pwd
 
 <details>
 <summary>Ver salida</summary>
-![PWD demo](../src/pwd.png)
+<img src="../src/pwd.png" alt="Salida de pwd" />
 </details>
 Al ejecutar `pwd`, se imprime la ruta del directorio actual. En este módulo, debería mostrar una ruta que termina en `modulo-01-terminal-y-rutas`.
 
@@ -100,7 +100,7 @@ Por ejemplo, de correrlo en este módulo:
 
 <details>
 <summary>Ver salida</summary>
-![ls](../src/ls.png)
+<img src="../src/ls.png" alt="Salida de ls" />
 </details>
 
 ## Qué es una ruta
@@ -125,7 +125,7 @@ cd datos
 
 <details>
 <summary>Ver salida</summary>
-![ls](../src/cd.png)
+<img src="../src/cd.png" alt="Salida de cd datos" />
 </details>
 
 Después corré otra vez:
@@ -137,7 +137,7 @@ ls
 
 <details>
 <summary>Ver salida</summary>
-![pwd after ls](../src/pwd_after_cd.png)
+<img src="../src/pwd_after_cd.png" alt="Salida de pwd y ls luego de cambiar de directorio" />
 </details>
 
 Qué mirar:
@@ -165,7 +165,7 @@ pwd
 
 <details>
 <summary>Ver salida</summary>
-![cd ..](../src/cd_back.png)
+<img src="../src/cd_back.png" alt="Salida de cd punto punto" />
 </details>
 
 Qué mirar:
