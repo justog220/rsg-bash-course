@@ -11,7 +11,7 @@ Un **script de Bash** es un archivo de texto que guarda una serie de comandos pa
 Por ejemplo, este script imprime cuatro líneas:
 
 ```bash
-#!/usr/bin/env bash
+#!/bin/bash
 
 echo "Esto"
 echo "es"
